@@ -1,4 +1,4 @@
-package com.creational.patterns.builder.italianfood.model;
+package com.design.patterns.creational.builder.italianfood.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

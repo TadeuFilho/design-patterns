@@ -1,10 +1,10 @@
-package com.creational.patterns;
+package com.design.patterns;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CreationalPatternsApplication {
+public class DesignPatternsApplication {
 	/*
 	*
 	* project created to exemplify creational patterns
@@ -12,7 +12,7 @@ public class CreationalPatternsApplication {
 	* */
 
 	public static void main(String[] args) {
-		SpringApplication.run(CreationalPatternsApplication.class, args);
+		SpringApplication.run(DesignPatternsApplication.class, args);
 	}
 
 }

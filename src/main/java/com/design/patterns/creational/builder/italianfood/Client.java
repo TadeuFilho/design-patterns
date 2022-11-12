@@ -1,7 +1,7 @@
-package com.creational.patterns.builder.italianfood;
+package com.design.patterns.creational.builder.italianfood;
 
-import com.creational.patterns.builder.italianfood.model.Pasta;
-import com.creational.patterns.builder.italianfood.model.Size;
+import com.design.patterns.creational.builder.italianfood.model.Pasta;
+import com.design.patterns.creational.builder.italianfood.model.Size;
 
 /*
  * Lombok has an annotation called "@Builder" that creates this pattern automatically

@@ -1,7 +1,7 @@
-package com.creational.patterns.builder.fastfood;
+package com.design.patterns.creational.builder.fastfood;
 
-import com.creational.patterns.builder.fastfood.builder.FastFoodMealBuilder;
-import com.creational.patterns.builder.fastfood.model.FastFoodMeal;
+import com.design.patterns.creational.builder.fastfood.builder.FastFoodMealBuilder;
+import com.design.patterns.creational.builder.fastfood.model.FastFoodMeal;
 
 /*
 * Lombok has an annotation called "@Builder" that creates this pattern automatically

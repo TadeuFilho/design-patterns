@@ -1,6 +1,6 @@
-package com.creational.patterns.builder.fastfood.builder;
+package com.design.patterns.creational.builder.fastfood.builder;
 
-import com.creational.patterns.builder.fastfood.model.FastFoodMeal;
+import com.design.patterns.creational.builder.fastfood.model.FastFoodMeal;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 

@@ -1,4 +1,4 @@
-package com.creational.patterns.builder.fastfood.model;
+package com.design.patterns.creational.builder.fastfood.model;
 
 import lombok.AllArgsConstructor;
 import lombok.ToString;
